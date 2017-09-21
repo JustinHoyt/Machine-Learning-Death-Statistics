@@ -1,0 +1,9 @@
+*.icloud
+.ipynb_checkpoints/*
+.idea/*
+*.dat
+*.npy
+__pycache__
+*.pkl
+DeathRecords/DeathRecords.csv
+DeathRecords/new_data.csv
